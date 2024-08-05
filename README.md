@@ -97,7 +97,7 @@ Follow these instructions to set up and run the project on your local machine.
    ```
 
 2. **Navigate to the analysis notebook**
-   - Open the notebook containing the analysis (notebook file name not provided in the screenshot).
+   - Google Play Store Apps Data Analysis 2 Final.ipynb
 
 3. **Run the cells**
    - Execute the cells in the notebook to perform the analysis and generate visualizations.
