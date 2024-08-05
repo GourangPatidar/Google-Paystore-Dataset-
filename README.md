@@ -59,7 +59,7 @@ The primary objective of this project is to analyze the Google Play Store datase
 ├── Google Play Store Apps Data Analysis 2 Final.pdf # Final analysis report
 ├── HLD Google app store.pdf               # High-Level Design document
 ├── LLD Google app store.pdf               # Low-Level Design document
-├── Power BI Report Google Play Store Data Analysis.pdf # Power BI report
+├── Power BI Report Google Play Store Data Analysis Final.pbix # Power BI report
 ├── cleaned_data.csv                       # Cleaned dataset used for analysis
 ├── googleplaystore.csv                    # Original dataset
 ├── wireframe google app store.pdf         # Wireframe document
@@ -104,7 +104,7 @@ Follow these instructions to set up and run the project on your local machine.
 
 ### Viewing the Power BI Dashboard
 
-- Open the Power BI Report file (`Power BI Report Google Play Store Data Analysis.pdf`) in Power BI Desktop to interact with the dashboard.
+- Open the Power BI Report file (`Power BI Report Google Play Store Data Analysis Final.pbix`) in Power BI Desktop to interact with the dashboard.
 
 ## Insights
 
@@ -144,4 +144,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Feel free to adjust the content as needed to better fit your specific project requirements.
